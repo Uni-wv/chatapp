@@ -18,8 +18,8 @@ The UDP application created using Socket Programming
 
 ### enter the IPs to initiate the Application.
 
-Your ID : system IP
-Friend's ID : other system IP
+Your ID : system IP<br/>
+Friend's ID : other system IP<br/>
 
 ### How to exit the Application?
 
